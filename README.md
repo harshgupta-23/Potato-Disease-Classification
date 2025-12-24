@@ -9,9 +9,7 @@ Credits: [Arjun Tejaswi (Kaggle)](https://www.kaggle.com/arjuntejaswi/plant-vill
 ## How to Use
 
 ### 1. Setup Data
-* Download the data as zip from [Dataset](https://www.kaggle.com/arjuntejaswi/plant-village) and rename the .zip file to `PlantVillage.zip`.
 * Place the `PlantVillage.zip` file in the same directory as `training.ipynb`.
-* For this project keep only the folders containing images of potato plant diseases and delete other folders.
 
 ### 2. Training
 * Open `training.ipynb` in Jupyter Notebook.
